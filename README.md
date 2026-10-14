@@ -1,4 +1,4 @@
 # call-recorder-spike (APK בלבד)
 
 קובץ APK לניסוי יכולת בלבד. קוד המקור פרטי.
-SHA-256 (v0.6.1): 9cbb1f1034f4950aecd15a6f5c595ea358ab15a075d513b667105558c425538a
+SHA-256 (v0.6.2): 995ff1d4c780388ef5ea650ba504da0d49c887479ef33c26272d2dadf577bcec
